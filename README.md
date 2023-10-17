@@ -1,16 +1,21 @@
-# W3HC Hardhat Template
+# Arthera Hardhat Template
 
-This Hardhat template includes:
+This Hardhat template is ideal for hackathons and quick prototyping.
 
--   Typescript
--   Ethers v6
--   Open Zeppelin contracts
--   Hardhat Verify plugin
+It includes:
+
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Ethers v6](https://docs.ethers.org/v6/)
+-   [Open Zeppelin contracts](https://www.openzeppelin.com/contracts)
+-   [Hardhat Verify plugin](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify)
+-   [Hardhat Deploy plugin](https://github.com/wighawag/hardhat-deploy)
+
+You may want to check the [dev resources](https://docs.arthera.net/build/developing-sc/dev-resources) available in Arthera docs, and [this walkthrough video](https://www.youtube.com/watch?v=kjPvFk4qmpc). 
 
 ## Supported networks
 
--   Goerli
--   Arthera testnet
+-   [Arthera Testnet](https://explorer-test.arthera.net/)
+-   [Goerli](https://goerli.etherscan.io/)
 
 ## Install
 
